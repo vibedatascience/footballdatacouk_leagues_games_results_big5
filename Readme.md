@@ -18,13 +18,13 @@ Comprehensive football match results and statistics from Europe's top 5 leagues,
 import pandas as pd
 
 # For historical analysis (complete seasons only)
-historical = pd.read_csv('footballdatacouk_leagues_games_results_2000_2024.csv')
+historical = pd.read_csv('https://raw.githubusercontent.com/vibedatascience/footballdatacouk_leagues_games_results_big5/refs/heads/main/footballdatacouk_leagues_games_results_2000_2024.csv')
 
 # For current season tracking
-current = pd.read_csv('footballdatacouk_leagues_games_results_2025_latest.csv')
+current = pd.read_csv('https://raw.githubusercontent.com/vibedatascience/footballdatacouk_leagues_games_results_big5/refs/heads/main/footballdatacouk_leagues_games_results_2025_latest.csv')
 
 # For complete dataset
-full = pd.read_csv('footballdatacouk_leagues_games_results_2000_ytd.csv')
+full = pd.read_csv('https://raw.githubusercontent.com/vibedatascience/footballdatacouk_leagues_games_results_big5/refs/heads/main/footballdatacouk_leagues_games_results_2000_ytd.csv')
 ```
 
 ### Download Latest Data
