@@ -26,6 +26,15 @@ Season,League,MatchDate,HomeTeam,AwayTeam,FullTimeHomeGoals,FullTimeAwayGoals,Fu
 2025/26,Bundesliga,2025-09-13,Bayern Munich,Hamburg,5,0,H,4,0,H,22,9,12,2,5,3,11,14,2,2,0,0
 2025/26,Bundesliga,2025-09-14,St Pauli,Augsburg,2,1,H,1,1,D,13,10,7,5,3,1,10,12,1,4,0,0
 2025/26,Bundesliga,2025-09-14,M'gladbach,Werder Bremen,0,4,A,0,2,A,19,12,3,7,9,4,12,9,1,0,0,0
+2025/26,Bundesliga,2025-09-19,Stuttgart,St Pauli,2,0,H,1,0,H,17,9,8,2,8,4,13,15,0,2,0,0
+2025/26,Bundesliga,2025-09-20,Augsburg,Mainz,1,4,A,0,2,A,18,12,5,4,6,6,13,10,1,2,0,1
+2025/26,Bundesliga,2025-09-20,Hamburg,Heidenheim,2,1,H,1,0,H,22,20,9,8,1,12,15,10,5,1,0,0
+2025/26,Bundesliga,2025-09-20,Hoffenheim,Bayern Munich,1,4,A,0,1,A,12,18,4,10,5,5,17,9,1,2,0,0
+2025/26,Bundesliga,2025-09-20,Werder Bremen,Freiburg,0,3,A,0,1,A,12,10,5,5,2,0,13,7,5,2,0,0
+2025/26,Bundesliga,2025-09-20,RB Leipzig,FC Koln,3,1,H,3,1,H,18,13,8,2,9,5,10,8,1,1,0,0
+2025/26,Bundesliga,2025-09-21,Ein Frankfurt,Union Berlin,3,4,A,1,2,A,19,11,10,5,5,1,10,11,3,2,0,0
+2025/26,Bundesliga,2025-09-21,Leverkusen,M'gladbach,1,1,D,0,0,D,13,13,9,7,3,4,12,15,5,5,0,0
+2025/26,Bundesliga,2025-09-21,Dortmund,Wolfsburg,1,0,H,1,0,H,12,10,4,1,9,3,10,9,1,0,0,0
 2025/26,La Liga,2025-08-15,Girona,Vallecano,1,3,A,0,3,A,7,16,2,5,2,4,8,17,0,1,1,0
 2025/26,La Liga,2025-08-15,Villarreal,Oviedo,2,0,H,2,0,H,25,5,10,4,10,1,10,8,1,2,0,1
 2025/26,La Liga,2025-08-16,Mallorca,Barcelona,0,3,A,0,2,A,4,24,1,8,3,6,8,17,4,1,2,0
@@ -67,6 +76,25 @@ Season,League,MatchDate,HomeTeam,AwayTeam,FullTimeHomeGoals,FullTimeAwayGoals,Fu
 2025/26,La Liga,2025-09-14,Osasuna,Vallecano,2,0,H,1,0,H,9,19,7,6,3,6,13,7,3,2,0,0
 2025/26,La Liga,2025-09-14,Barcelona,Valencia,6,0,H,1,0,H,24,2,10,1,5,4,9,8,0,1,0,0
 2025/26,La Liga,2025-09-15,Espanol,Mallorca,3,2,H,2,1,H,9,24,3,10,3,9,9,16,2,1,1,0
+2025/26,La Liga,2025-09-19,Betis,Sociedad,3,1,H,1,1,D,21,11,6,5,3,5,7,20,3,7,0,0
+2025/26,La Liga,2025-09-20,Girona,Levante,0,4,A,0,1,A,7,14,1,7,5,4,11,17,4,3,2,0
+2025/26,La Liga,2025-09-20,Real Madrid,Espanol,2,0,H,1,0,H,16,8,5,1,5,3,10,20,2,0,0,0
+2025/26,La Liga,2025-09-20,Alaves,Sevilla,1,2,A,1,1,D,8,9,5,3,4,4,20,19,1,7,0,0
+2025/26,La Liga,2025-09-20,Villarreal,Osasuna,2,1,H,0,1,A,26,6,8,3,7,0,10,11,2,3,0,1
+2025/26,La Liga,2025-09-20,Valencia,Ath Bilbao,2,0,H,0,0,D,13,11,5,5,5,6,13,6,1,1,0,1
+2025/26,La Liga,2025-09-21,Vallecano,Celta,1,1,D,0,0,D,15,9,5,5,5,7,8,10,1,1,0,0
+2025/26,La Liga,2025-09-21,Mallorca,Ath Madrid,1,1,D,0,0,D,8,12,3,7,3,6,14,6,0,0,0,1
+2025/26,La Liga,2025-09-21,Elche,Oviedo,1,0,H,1,0,H,15,12,5,4,3,3,9,18,2,2,0,0
+2025/26,La Liga,2025-09-21,Barcelona,Getafe,3,0,H,2,0,H,16,3,7,2,3,2,9,15,2,4,0,0
+2025/26,La Liga,2025-09-23,Ath Bilbao,Girona,1,1,D,0,1,A,17,6,5,3,8,1,19,15,0,2,0,0
+2025/26,La Liga,2025-09-23,Espanol,Valencia,2,2,D,0,1,A,21,5,10,2,8,3,9,9,1,4,0,0
+2025/26,La Liga,2025-09-23,Levante,Real Madrid,1,4,A,0,2,A,11,24,2,10,1,7,17,9,1,1,0,0
+2025/26,La Liga,2025-09-23,Sevilla,Villarreal,1,2,A,0,1,A,16,12,2,5,3,3,17,14,2,3,0,0
+2025/26,La Liga,2025-09-24,Getafe,Alaves,1,1,D,0,0,D,7,10,1,4,2,7,14,20,2,3,0,0
+2025/26,La Liga,2025-09-24,Ath Madrid,Vallecano,3,2,H,1,1,D,20,9,8,3,8,6,6,12,3,4,0,0
+2025/26,La Liga,2025-09-24,Sociedad,Mallorca,1,0,H,0,0,D,17,7,4,3,11,2,13,15,2,2,0,0
+2025/26,La Liga,2025-09-25,Osasuna,Elche,1,1,D,1,0,H,9,12,2,4,2,3,19,13,2,2,0,0
+2025/26,La Liga,2025-09-25,Oviedo,Barcelona,1,3,A,1,0,H,7,22,3,10,6,9,10,6,1,0,0,0
 2025/26,Ligue 1,2025-08-15,Rennes,Marseille,1,0,H,0,0,D,12,24,5,2,1,12,8,11,2,3,1,0
 2025/26,Ligue 1,2025-08-16,Lens,Lyon,0,1,A,0,1,A,18,11,5,3,13,8,13,20,2,3,0,0
 2025/26,Ligue 1,2025-08-16,Monaco,Le Havre,3,1,H,1,0,H,13,9,3,4,5,4,5,14,0,1,0,0
@@ -103,6 +131,15 @@ Season,League,MatchDate,HomeTeam,AwayTeam,FullTimeHomeGoals,FullTimeAwayGoals,Fu
 2025/26,Ligue 1,2025-09-14,Paris SG,Lens,2,0,H,1,0,H,14,11,6,3,4,3,10,8,1,2,0,0
 2025/26,Ligue 1,2025-09-14,Strasbourg,Le Havre,1,0,H,0,0,D,9,10,7,1,4,3,8,16,2,2,1,0
 2025/26,Ligue 1,2025-09-14,Rennes,Lyon,3,1,H,0,1,A,23,8,5,5,5,4,18,13,2,2,0,1
+2025/26,Ligue 1,2025-09-19,Lyon,Angers,1,0,H,0,0,D,16,10,5,2,7,4,16,10,2,2,0,0
+2025/26,Ligue 1,2025-09-20,Nantes,Rennes,2,2,D,0,2,A,16,8,4,4,4,4,14,18,3,1,0,0
+2025/26,Ligue 1,2025-09-20,Brest,Nice,4,1,H,2,1,H,11,21,5,4,2,7,17,11,1,3,0,0
+2025/26,Ligue 1,2025-09-20,Lens,Lille,3,0,H,2,0,H,15,17,6,3,4,10,17,11,1,3,0,0
+2025/26,Ligue 1,2025-09-21,Paris FC,Strasbourg,2,3,A,0,1,A,18,8,6,4,4,2,11,10,1,5,0,0
+2025/26,Ligue 1,2025-09-21,Auxerre,Toulouse,1,0,H,1,0,H,6,13,1,3,3,4,12,20,1,6,1,0
+2025/26,Ligue 1,2025-09-21,Le Havre,Lorient,1,1,D,0,1,A,13,8,2,4,6,2,20,15,3,6,0,0
+2025/26,Ligue 1,2025-09-21,Monaco,Metz,5,2,H,1,1,D,16,8,6,3,4,5,15,6,1,0,0,0
+2025/26,Ligue 1,2025-09-22,Marseille,Paris SG,1,0,H,1,0,H,9,12,2,5,5,3,16,7,3,0,0,0
 2025/26,Premier League,2025-08-15,Liverpool,Bournemouth,4,2,H,1,0,H,19,10,10,3,6,7,7,10,1,2,0,0
 2025/26,Premier League,2025-08-16,Aston Villa,Newcastle,0,0,D,0,0,D,3,16,3,3,3,6,13,11,1,1,1,0
 2025/26,Premier League,2025-08-16,Brighton,Fulham,1,1,D,0,0,D,10,7,4,2,4,3,16,15,3,3,0,0
@@ -143,6 +180,16 @@ Season,League,MatchDate,HomeTeam,AwayTeam,FullTimeHomeGoals,FullTimeAwayGoals,Fu
 2025/26,Premier League,2025-09-13,Brentford,Chelsea,2,2,D,1,0,H,7,16,4,6,5,6,13,9,3,2,0,0
 2025/26,Premier League,2025-09-14,Burnley,Liverpool,0,1,A,0,0,D,3,27,0,4,1,13,9,9,0,2,0,0
 2025/26,Premier League,2025-09-14,Man City,Man United,3,0,H,1,0,H,13,12,6,2,2,4,8,8,0,0,0,0
+2025/26,Premier League,2025-09-20,Liverpool,Everton,2,1,H,2,0,H,11,9,3,2,5,4,11,10,2,3,0,0
+2025/26,Premier League,2025-09-20,Brighton,Tottenham,2,2,D,2,1,H,12,11,4,3,2,10,10,13,1,2,0,0
+2025/26,Premier League,2025-09-20,Burnley,Nott'm Forest,1,1,D,1,1,D,12,17,5,8,4,5,12,11,1,1,0,0
+2025/26,Premier League,2025-09-20,West Ham,Crystal Palace,1,2,A,0,1,A,8,18,3,3,8,8,15,5,3,3,0,0
+2025/26,Premier League,2025-09-20,Wolves,Leeds,1,3,A,1,3,A,16,6,6,4,4,0,11,9,1,1,0,0
+2025/26,Premier League,2025-09-20,Man United,Chelsea,2,1,H,2,0,H,11,5,4,1,5,5,13,14,0,5,1,1
+2025/26,Premier League,2025-09-20,Fulham,Brentford,3,1,H,2,1,H,14,8,3,3,2,10,11,13,4,1,0,0
+2025/26,Premier League,2025-09-21,Bournemouth,Newcastle,0,0,D,0,0,D,11,4,2,1,5,2,7,10,2,1,0,0
+2025/26,Premier League,2025-09-21,Sunderland,Aston Villa,1,1,D,0,0,D,14,12,4,2,6,5,14,8,2,1,1,0
+2025/26,Premier League,2025-09-21,Arsenal,Man City,1,1,D,0,1,A,12,5,3,3,11,2,11,10,1,2,0,0
 2025/26,Serie A,2025-08-23,Genoa,Lecce,0,0,D,0,0,D,5,7,2,0,3,7,16,13,2,3,0,0
 2025/26,Serie A,2025-08-23,Sassuolo,Napoli,0,2,A,0,1,A,7,13,2,4,1,2,17,17,3,1,1,0
 2025/26,Serie A,2025-08-23,Milan,Cremonese,1,2,A,1,1,D,24,4,6,3,9,2,10,14,1,4,0,0
@@ -173,3 +220,13 @@ Season,League,MatchDate,HomeTeam,AwayTeam,FullTimeHomeGoals,FullTimeAwayGoals,Fu
 2025/26,Serie A,2025-09-14,Milan,Bologna,1,0,H,0,0,D,14,5,3,0,7,4,17,16,3,2,0,0
 2025/26,Serie A,2025-09-15,Verona,Cremonese,0,0,D,0,0,D,20,6,9,2,10,1,18,3,2,1,0,0
 2025/26,Serie A,2025-09-15,Como,Genoa,1,1,D,1,0,H,13,13,4,6,0,8,13,17,2,2,1,0
+2025/26,Serie A,2025-09-19,Lecce,Cagliari,1,2,A,1,1,D,11,15,5,6,4,7,10,19,2,3,0,0
+2025/26,Serie A,2025-09-20,Bologna,Genoa,2,1,H,0,0,D,14,7,6,4,8,2,12,15,1,5,0,0
+2025/26,Serie A,2025-09-20,Verona,Juventus,1,1,D,1,1,D,14,10,4,4,5,3,18,10,3,3,0,0
+2025/26,Serie A,2025-09-20,Udinese,Milan,0,3,A,0,1,A,10,13,4,6,1,4,9,7,2,0,0,0
+2025/26,Serie A,2025-09-21,Lazio,Roma,0,1,A,0,1,A,10,13,2,6,3,6,14,22,1,1,2,0
+2025/26,Serie A,2025-09-21,Cremonese,Parma,0,0,D,0,0,D,3,15,1,3,3,3,16,8,1,0,0,0
+2025/26,Serie A,2025-09-21,Torino,Atalanta,0,3,A,0,3,A,11,9,5,5,1,0,11,9,0,0,0,0
+2025/26,Serie A,2025-09-21,Fiorentina,Como,1,2,A,1,0,H,8,19,1,7,2,6,16,19,4,3,0,0
+2025/26,Serie A,2025-09-21,Inter,Sassuolo,2,1,H,1,0,H,20,9,6,5,7,3,15,8,2,1,0,0
+2025/26,Serie A,2025-09-22,Napoli,Pisa,3,2,H,1,0,H,18,15,6,6,5,3,10,18,1,2,0,0
